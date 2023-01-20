@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.microserviceDemo.inventory_service.InventoryServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.255 s - in com.microserviceDemo.inventory_service.InventoryServiceApplicationTests
